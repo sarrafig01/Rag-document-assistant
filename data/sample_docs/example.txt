@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) enhances language models
+by retrieving relevant information from external documents before answering questions.
