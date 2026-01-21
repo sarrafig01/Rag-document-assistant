@@ -1,2 +1,4 @@
-Retrieval-Augmented Generation (RAG) enhances language models
-by retrieving relevant information from external documents before answering questions.
+Key benefits of RAG include improved accuracy, data privacy, and flexibility.
+It allows models to access up-to-date or private information without retraining.
+However, RAG performance depends on document quality, chunking strategy,
+and embedding relevance. Poorly structured data may reduce answer quality.
